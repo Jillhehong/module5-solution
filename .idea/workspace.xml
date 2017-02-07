@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87e5f21-0775-480d-bff9-40af9f4d4ef7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="c87e5f21-0775-480d-bff9-40af9f4d4ef7" name="Default" comment="" />
     <ignored path="module5-solution.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -425,15 +423,15 @@
       <workItem from="1486399619062" duration="16069000" />
       <workItem from="1486431616070" duration="651000" />
       <workItem from="1486432299258" duration="6266000" />
-      <workItem from="1486474153537" duration="5320000" />
+      <workItem from="1486474153537" duration="5603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28306000" />
+    <option name="totallyTimeSpent" value="28589000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
